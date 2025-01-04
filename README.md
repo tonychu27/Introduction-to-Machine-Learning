@@ -1,7 +1,7 @@
 > [!CAUTION]
 > Don't copy my work or you will be caught for plagiarism 🙅‍♂️⛔️
 # Introduction to Machine Learning
-2024 Fall NYCU 
+2024 Fall NYCU, Yen-Yu Lin
 
 | HW |               Name                  |        
 | :---     |                                 ---:|
